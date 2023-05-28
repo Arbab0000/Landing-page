@@ -1,0 +1,170 @@
+body{
+
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+}
+
+#header{
+    background-color: gray;
+	display: flex;
+    justify-content: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#header a img{
+	display: inline;
+	height: 60px;
+	width: 180px;
+
+	
+}  
+
+#header ul{
+
+   margin: 0%; 
+text-align: center;    
+  
+}
+
+#header ul li{
+    display: inline-block;
+    padding-left: 50px;
+    margin: 20px;
+    font-weight: bold;
+    color: rgb(255, 255, 254);
+	text-transform: uppercase;
+}
+
+#body{
+
+    background-image: url('./mike-kenneally-tNALoIZhqVM-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /* text-align: center; */
+    height: 745px;
+	  
+    
+    
+
+}
+
+/* 
+#body img{
+    height: auto;
+    margin: 0%;
+    width: 1100PX;
+	overflow: hidden;
+    padding: 0%;
+ 
+        
+} */
+
+
+
+
+#body2 {
+	background-color: white;
+	margin: 0;
+	max-width: none;
+	padding: 0;
+	width: 100%;
+}
+#body2 div {
+	margin: 0 auto;
+	max-width: 960px;
+	overflow: hidden;
+	padding: 0;
+}
+#body2 div div {
+	float: left;
+	margin: 0;
+	padding: 0 0 0 40px;
+	width: 560px;
+}
+#body2 div img {
+	display: block;
+	float: right;
+	left: 0;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	width: 200px;
+    height: 200px;
+	margin-top: 20px;
+} 
+
+ #body2 div div h1 {
+	color: #7A6666;
+	display: block;
+	font-family: lato-bold-webfont;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0;
+	padding: 47px 0 18px;
+	text-align: left;
+	text-transform: uppercase;
+	width: 560px;
+}
+#body2 div div h2 {
+	color: #E32A62;
+	display: block;
+	font-family: magra-bold-webfont;
+	font-size: 30px;
+	font-weight: normal;
+	line-height: 30px;
+	margin: 0;
+	padding: 0 0 26px;
+	text-align: left;
+	text-transform: none;
+	width: 560px;
+}
+#body2 div div p {
+	color: #7a6666;
+	display: block;
+	font-family: roboto-regular-webfont;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	width: 560px;
+}
+
+#footer{
+
+    background-color: rgb(83, 75, 35);
+    margin: 0%;
+	padding: 0%;
+width: 100%;
+
+}
+
+#footer div ul{
+
+	display: flex;
+	justify-content: center;
+	margin: 0%;
+	padding: 30px;
+
+}
+
+#footer div ul li{
+	color: white;
+	display: inline-block;
+	
+
+}
+
+
+#footer div ul li h1{
+	padding-left: 50px;
+	font-size: small;
+
+
+}
+
